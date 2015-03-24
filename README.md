@@ -6,4 +6,7 @@ This  simple example shows how quickly you can use the middleware architecture o
 
 The lua language is powered by the wonderful [MoonSharp project](http://www.moonsharp.org/).
 
-The requirement to run this project is aspnet50 beta 4. You can also run it quickly on Visual Studio 2015 CTP 6.
+The requirement to run this project is aspnet50 beta 4 on .NET 4.6 full framemwork. It will not run on .NET Core because MoonSharp is not designed for it. 
+
+
+
