@@ -94,7 +94,7 @@ namespace MoonScriptWeb
     public static class MoonSharpMiddlewareExtensions
     {
         /// <summary>
-        /// This makes the usage of this middleware must nicer, e.g. app.UseMoondSharp()
+        /// This makes the usage of this middleware must nicer, e.g. app.UseMoonSharp()
         /// </summary>
         /// <param name="app"></param>
         /// <param name="s"></param>
